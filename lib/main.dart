@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-        title: 'Flutter',
+        title: 'crud UAS Pemob',
         theme: ThemeData(
           accentColor: primaryColor,
         ),
